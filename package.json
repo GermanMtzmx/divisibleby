@@ -1,10 +1,11 @@
 {
-  "name": "divisibleby",
+  "name": "multipleby",
   "version": "1.0.0",
-  "description": "Exercise to know if  a number is divisible by two given ",
+  "description": "Exercise to know if  a number is multiple by two given ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha tests/index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
