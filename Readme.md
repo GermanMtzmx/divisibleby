@@ -5,6 +5,13 @@ __German Martinez Solis__
 Exercise to know if a collection of numbers are multiples of two given numbers, and replace it by custom string
 by example `multiple: 3` `replacement: foo`, and  `multiple: 5` `replacement: bar`
 
+
+### Install mocha to run unit test
+
+```sh
+npm i -g mocha
+```
+
 ### Install dependencies
 
 ```sh
